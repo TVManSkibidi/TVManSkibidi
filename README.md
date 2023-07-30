@@ -46,7 +46,7 @@ the main projects like:
 - And I'm Indian
 - I use github
 
-You can see my project [Here](https://github.com/dashboard)
+You can see my projects [Here](https://github.com/dashboard)
 
 ## But if you want to make a Killer README do these few steps
 1. Your Details
