@@ -29,14 +29,15 @@ Idea By: Github Projects, Killer Readme etc.
 # The Projects
 the main projects like:
 ## calculator project
-![ alt image ](calc.png)
+![ alt image ](calc.jpeg)
 ## game projects
-![ snake image ](snake_game.png)
+![ snake image ](snake_game.jpeg)
 
-![ car game ](car_game.png)
+![ car game ](car_game.jpeg)
 ## calendar picker project
-![ calendar picker ](calendar.png)
+![ calendar picker ](calendar.jpeg)
 ## clock project and more...
+![clock](clock.jpeg)
 
 ## INFO:
 ![GitHub](https://img.shields.io/badge/GitHub-3.9.2-181717?style=for-the-badge&logo=GitHub)
@@ -46,3 +47,13 @@ the main projects like:
 - I use github
 
 You can see my project [Here](https://github.com/dashboard)
+
+## But if you want to make a Killer README do these few steps
+1. Your Details
+2. Images
+3. GIFs
+4. Add more detailing
+5. Finish
+
+## Bye from Kartik-
+- Bye. Have a good day
