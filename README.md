@@ -38,6 +38,10 @@ the main projects like:
 ![ calendar picker ](calendar.jpeg)
 ## clock project and more...
 ![clock](clock.jpeg)
+<p>Most people don't know how to code</p>
+<p>If you want to make projects or coding</p>
+<p>Go to youtube and Search "Coder Space" and Select a video.</p>
+<p>You will be the Python Pro</p>
 
 ## INFO:
 ![GitHub](https://img.shields.io/badge/GitHub-3.9.2-181717?style=for-the-badge&logo=GitHub)
