@@ -134,8 +134,6 @@ _italic_
 
 *Bold*
 
-> **Error**
-> 
-> sikethrough does not exist
->
->
+~sikethrough~
+
+more processing..
