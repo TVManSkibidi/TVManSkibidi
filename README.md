@@ -41,13 +41,13 @@ Idea By: Github Projects, Killer Readme etc.
 # The Projects
 the main projects like:
 ## calculator project
-![ alt image ](calc.jpeg)
+![alt image](calc.jpeg)
 ## game projects
-![ snake image ](snake_game.jpeg)
+![snake image](snake_game.jpeg)
 
-![ car game ](car_game.jpeg)
+![car game](car_game.jpeg)
 ## calendar picker project
-![ calendar picker ](calendar.jpeg)
+![calendar picker](calendar.jpeg)
 ## clock project and more...
 
 
